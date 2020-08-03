@@ -1,0 +1,19 @@
+{
+	"name": "quickfixbackend",
+	"version": "1.0.0",
+	"description": "github login",
+	"main": "app.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": ""
+	},
+	"homepage": ""
+}
